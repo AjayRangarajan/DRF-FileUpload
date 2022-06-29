@@ -1,0 +1,1 @@
+A simple REST API to upload files created with DJANGO REST FRAMEWORK.
